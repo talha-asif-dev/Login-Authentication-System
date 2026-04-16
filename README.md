@@ -702,9 +702,3 @@ registerServiceWorker();
 sudo yarn start
 ```
 
-
-
-```
-https://github.com/RobDWaller/ReallySimpleJWT
-https://github.com/firebase/php-jwt
-```
